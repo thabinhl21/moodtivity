@@ -1,0 +1,95 @@
+[
+    {
+        "name": "sleep",
+        "time": 120,
+        "desc": "Sleep cures all! Why don't you catch some z's?"
+
+    },
+
+    {
+        "name": "faith",
+        "time": 5,
+        "desc": "Are you spiritual? If so, you might want to consult a higher power"
+    },
+
+    {
+        "name": "vent",
+        "time": 10,
+        "desc": "Venting to a loved one can take the edge off. If they will listen of course"
+    },
+
+    {
+        "name": "pet",
+        "time": 5,
+        "desc": "Just 5 minutes with a pet can put a smile on your face"
+    },
+
+    {
+        "name": "drive",
+        "time": 60,
+        "desc": "Long drives with some music can be very peaceful"
+    },
+
+    {
+        "name": "nature",
+        "time": 30,
+        "desc": "Experiencing the wonders of nature can put things into perspective"
+    },
+
+    {
+        "name": "comedy",
+        "time": 20,
+        "desc": "Binging comedy on any streaming platform is a great move. It's hard to be sad while you're laughing"
+    },
+
+    {
+        "name": "breathe",
+        "time": 1,
+        "desc": "Breathing exercises are a real thing! Backed by science, they calm down the body. Just breathe"
+    },
+
+    {
+        "name": "self_care",
+        "time": 60,
+        "desc": "Look after you! Treat yourself to good food, retail therapy, or whatever makes you happy"
+    },
+
+    {
+        "name": "socialize",
+        "time": 60,
+        "desc": "Even if you're sad, good friends don't let that last long. Go have some fun"
+    },
+
+    {
+        "name": "exercise",
+        "time": 60,
+        "desc": "Blow off some steam! Exercise is one of the healthiest ways to do that"
+    },
+
+    {
+        "name": "movie",
+        "time": 120,
+        "desc": "It's amazing how a good movie can distract the mind and relax the body"
+    },
+
+    {
+        "name": "write",
+        "time": 10,
+        "desc": "Write down your frustrations. Documenting your thoughts can be very therapeutic"
+    },
+
+    {
+        "name": "errands",
+        "time": 30,
+        "desc": "You probably have something that needs to be done. Boredom is a perfect opportunity to get it out of the way"
+    },
+
+    {
+        
+    }
+
+
+
+
+
+]

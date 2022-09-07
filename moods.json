@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Bad Day",
+        "num": "1"
+    },
+    {
+        "name": "Stressed",
+        "num": "2"
+    },
+    {
+        "name": "Anxious",
+        "num": "2"
+    },
+    {
+        "name": "Angry",
+        "num": "2"
+    },
+    {
+        "name": "Annoyed",
+        "num": "2"
+    },
+    {
+        "name": "Tired",
+        "num": "2"
+    },
+    {
+        "name": "Good/Bored",
+        "num": "3"
+    }
+]

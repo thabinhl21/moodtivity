@@ -1,0 +1,74 @@
+[
+    {
+        "name": "breathe",
+        "time": 1,
+        "desc": "Breathing exercises are a real thing! Backed by science, they calm down the body. Just breathe"
+    },
+
+    {
+        "name": "self_care",
+        "time": 60,
+        "desc": "Look after you! Treat yourself to good food, retail therapy, or whatever makes you happy"
+    },
+
+    {
+        "name": "socialize",
+        "time": 60,
+        "desc": "Even if you're sad, good friends don't let that last long. Go have some fun"
+    },
+
+    {
+        "name": "exercise",
+        "time": 60,
+        "desc": "Blow off some steam! Exercise is one of the healthiest ways to do that"
+    },
+
+    {
+        "name": "movie",
+        "time": 120,
+        "desc": "It's amazing how a good movie can distract the mind and relax the body"
+    },
+
+    {
+        "name": "write",
+        "time": 10,
+        "desc": "Write down your frustrations. Documenting your thoughts can be very therapeutic"
+    },
+
+    {
+        "name": "errands",
+        "time": 30,
+        "desc": "You probably have something that needs to be done. Boredom is a perfect opportunity to get it out of the way"
+    },
+
+    {
+        "name": "sleep",
+        "time": 120,
+        "desc": "Sleep cures all! Why don't you catch some z's?"
+
+    },
+
+    {
+        "name": "walk",
+        "time": 10,
+        "desc": "Go for a walk outside"
+    },
+
+    {
+        "name": "puzzle",
+        "time": 45,
+        "desc": "Do a puzzle"
+    },
+
+    {
+        "name": "game",
+        "time": 20,
+        "desc": "Play an online game for 20 minutes"
+    },
+
+    {
+        "name": "comedy",
+        "time": 15,
+        "desc": "Watch funny animal videos for 15 minutes"
+    }
+]

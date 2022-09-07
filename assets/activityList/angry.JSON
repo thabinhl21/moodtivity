@@ -1,0 +1,73 @@
+[
+    {
+        "name": "breathe",
+        "time": 1,
+        "desc": "Breathing exercises are a real thing! Backed by science, they calm down the body. Just take 10 deep breaths"
+    },
+
+    {
+        "name": "exercise",
+        "time": 60,
+        "desc": "Blow off some steam! Exercise is one of the healthiest ways to do that"
+    },
+
+    {
+        "name": "movie",
+        "time": 120,
+        "desc": "It's amazing how a good movie can distract the mind and relax the body"
+    },
+
+    {
+        "name": "write",
+        "time": 10,
+        "desc": "Write down your frustrations. Documenting your thoughts can be very therapeutic"
+    },
+
+    {
+        "name": "exercise",
+        "time": 30,
+        "desc": "Get some exercise for about 30 minutes"
+    },
+
+    {
+        "name": "comedy",
+        "time": 120,
+        "desc": "Try to laugh off your angry feelings away by watching a funny movie or a show"
+    },
+
+    {
+        "name": "letter",
+        "time": 10,
+        "desc": "Write a forgiveness letter or email"
+    },
+
+    {
+        "name": "draw",
+        "time": 30,
+        "desc": "Draw or paint a picture"
+    },
+
+    {
+        "name": "change",
+        "time": 5,
+        "desc": "Go get a change of scenery for 5 minutes"
+    },
+
+    {
+        "name": "write",
+        "time": 15,
+        "desc": "Write down all the things that are upsetting you on a piece of paper, then rip it up"
+    },
+
+    {
+        "name": "game",
+        "time": 45,
+        "desc": "Go play any kind of game with your friends"
+    },
+
+    {
+        "name": "socialize",
+        "time": 60,
+        "desc": "Even if you're upset, good friends don't let that last long. Go have some fun"
+    }
+]

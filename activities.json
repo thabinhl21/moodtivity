@@ -1,0 +1,135 @@
+[
+    {
+        "name": "sleep",
+        "mood": "1",
+        "time": "120",
+        "desc": "Sleep cures all! Why don't you catch some z's?"
+    },
+    {
+        "name": "faith",
+        "mood": "1",
+        "time": "5",
+        "desc": "Are you spiritual? If so, you might want to consult a higher power"
+    },
+    {
+        "name": "vent",
+        "mood": "1",
+        "time": "10",
+        "desc": "Venting to a loved one can take the edge off. If they will listen of course"
+    },
+    {
+        "name": "pet",
+        "mood": "1",
+        "time": "5",
+        "desc": "Just 5 minutes with a pet can put a smile on your face"
+    },
+    {
+        "name": "drive",
+        "mood": "1",
+        "time": "30",
+        "desc": "Long drives with some music can be very peaceful"
+    },
+    {
+        "name": "nature",
+        "mood": "1",
+        "time": "30",
+        "desc": "Experiencing the wonders of nature can put things into perspective. Take a hike!"
+    },
+    {
+        "name": "comedy",
+        "mood": "1",
+        "time": "20",
+        "desc": "Binging comedy on any streaming platform is a great move. It's hard to be sad while you're laughing"
+    },
+    {
+        "name": "game",
+        "mood": "1",
+        "time": "30",
+        "desc": "Gaming can distract from a rough day. Something peaceful like Minecraft to wind down or break out your competitive side online"
+    },
+    {
+        "name": "read",
+        "mood": "2",
+        "time": "60",
+        "desc": "When's the last time you sat down to read a good book? Get lost in some fiction or seek knowledge!"
+    },
+    {
+        "name": "breathe",
+        "mood": "2",
+        "time": "1",
+        "desc": "Breathing exercises are a real thing! Backed by science, they calm down the body. Just breathe"
+    },
+    {
+        "name": "walk",
+        "mood": "2",
+        "time": "15",
+        "desc": "A quick walk gives you time to cool off"
+    },
+    {
+        "name": "self-care",
+        "mood": "2",
+        "time": "60",
+        "desc": "Look after you! Treat yourself to good food, retail therapy, or whatever makes you happy"
+    },
+    {
+        "name": "socialize",
+        "mood": "2",
+        "time": "60",
+        "desc": "Even if you're sad, good friends don't let that last long. Go have some fun"
+    },
+    {
+        "name": "exercise",
+        "mood": "2",
+        "time": "30",
+        "desc": "Blow off some steam! Exercise is one of the healthiest ways to do that"
+    },
+    {
+        "name": "movie",
+        "mood": "2",
+        "time": "120",
+        "desc": "It's amazing how a good movie can distract the mind and relax the body"
+    },
+    {
+        "name": "write",
+        "mood": "2",
+        "time": "10",
+        "desc": "Write down your frustrations. Documenting your thoughts can be very therapeuti"
+    },
+    {
+        "name": "errands",
+        "mood": "2",
+        "time": "30",
+        "desc": "You probably have something that needs to be done. Boredom is a perfect opportunity to get it out of the way"
+    },
+    {
+        "name": "yoga",
+        "mood": "2",
+        "time": "30",
+        "desc": "Yoga is physically challenging and mentally relaxing. Namaste!"
+    },
+    {
+        "name": "meditate",
+        "mood": "2",
+        "time": "10",
+        "desc": "Mental exploration and visualization can be achieved through meditation. Take some time and just think"
+    },
+    {
+        "name": "music",
+        "mood": "2",
+        "time": "10",
+        "desc": "Listen to music! Search for new tunes or bump the classics"
+    },
+    {
+        "name": "bathe",
+        "mood": "2",
+        "time": "15",
+        "desc": "Either a quick shower or a long, relaxing bath. Getting clean just feels good"
+    },
+    {
+        "name": "create",
+        "mood": "2",
+        "time": "30",
+        "desc": "Do whatever makes you feel creative! Paint, write music, build, draw... just create!"
+    }
+]
+

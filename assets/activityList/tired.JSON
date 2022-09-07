@@ -1,0 +1,74 @@
+[
+    {
+        "name": "sleep",
+        "time": 120,
+        "desc": "Sleep cures all! Why don't you catch some z's?"
+
+    },
+
+    {
+        "name": "self_care",
+        "time": 60,
+        "desc": "Look after you! Treat yourself to good food, retail therapy, or whatever makes you happy"
+    },
+
+    {
+        "name": "movie",
+        "time": 120,
+        "desc": "It's amazing how a good movie can distract the mind and relax the body"
+    },
+
+    {
+        "name": "posture",
+        "time": 1,
+        "desc": "Practice good posture"
+    },
+
+    {
+        "name": "nap",
+        "time": 10,
+        "desc": "Take a 10 minute power nap"
+    },
+
+    {
+        "name": "spa",
+        "time": 120,
+        "desc": "Create a DIY spa"
+    },
+
+    {
+        "name": "read",
+        "time": 45,
+        "desc": "Crack open a book you like and start reading"
+    },
+
+    {
+        "name": "drive",
+        "time": 60,
+        "desc": "Long and scenic drives with some music can be very peaceful"
+    },
+
+    {
+        "name": "meditate",
+        "time": 30,
+        "desc": "Meditate for 30 minutes to clear your mind"
+    },
+
+    {
+        "name": "yoga",
+        "time": 15,
+        "desc": "do some yoga"
+    },
+
+    {
+        "name": "self_care",
+        "time": 5,
+        "desc": "Do a face mask"
+    },
+
+    {
+        "name": "pet",
+        "time": 5,
+        "desc": "Just 5 minutes with a pet can put a smile on your face"
+    }
+]

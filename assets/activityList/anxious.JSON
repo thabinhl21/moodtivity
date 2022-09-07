@@ -1,0 +1,79 @@
+[
+    {
+        "name": "music",
+        "time": 20,
+        "desc": "Listen to music"
+    },
+
+    {
+        "name": "meditate",
+        "time": 30,
+        "desc": "Meditate for 30 minutes to clear your mind"
+    },
+
+    {
+        "name": "write",
+        "time": 10,
+        "desc": "Write down your frustrations. Documenting your thoughts can be very therapeutic"
+    },
+
+    {
+        "name": "outside",
+        "time": 3,
+        "desc": "Go outside to get some fresh air for a few mins"
+    },
+
+    {
+        "name": "snack",
+        "time": 5,
+        "desc": "Get a snack to eat"
+    },
+
+    {
+        "name": "flashcards",
+        "time": 15,
+        "desc": "Make positive affirmation flashcards"
+    },
+
+    {
+        "name": "read",
+        "time": 60,
+        "desc": "Read a good book for an hour"
+    },
+
+    {
+        "name": "massage",
+        "time": 10,
+        "desc": "Massage your hands"
+    },
+
+    {
+        "name": "organize",
+        "time": 45,
+        "desc": "Organize your work or living space"
+    },
+
+    {
+        "name": "shower",
+        "time": 20,
+        "desc": "Take a shower or a bath"
+    },
+
+    {
+        "name": "breathe",
+        "time": 1,
+        "desc": "Breathing exercises are a real thing! Backed by science, they calm down the body. Just breathe"
+    },
+
+    {
+        "name": "exercise",
+        "time": 60,
+        "desc": "Blow off some steam! Exercise is one of the healthiest ways to do that"
+    },
+
+    {
+        "name": "movie",
+        "time": 120,
+        "desc": "It's amazing how a good movie can distract the mind and relax the body"
+    }
+]

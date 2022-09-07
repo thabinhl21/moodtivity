@@ -1,0 +1,67 @@
+[
+    {
+        "name": "yoga",
+        "time": 15,
+        "desc": "do some yoga"
+    },
+
+    {
+        "name": "walk",
+        "time": 10,
+        "desc": "Go for a walk outside"
+    },
+
+    {
+        "name": "massage",
+        "time": 5,
+        "desc": "Massage your shoulders, neck, hands, temples"
+    },
+
+    {
+        "name": "gum",
+        "time": 1,
+        "desc": "Chew gum"
+    },
+
+    {
+        "name": "exercise",
+        "time": 60,
+        "desc": "Blow off some steam! Exercise is one of the healthiest ways to do that"
+    },
+
+    {
+        "name": "rest",
+        "time": 5,
+        "desc": "Close your eyes and rest for 5 minutes"
+    },
+
+    {
+        "name": "date",
+        "time": 60,
+        "desc": "Go on a coffee date with yourself"
+    },
+
+    {
+        "name": "bake",
+        "time": 120,
+        "desc": "Bake your favorite treats"
+    },
+
+    {
+        "name": "breathe",
+        "time": 1,
+        "desc": "Breathing exercises are a real thing! Backed by science, they calm down the body. Just breathe"
+    },
+
+    {
+        "name": "self_care",
+        "time": 60,
+        "desc": "Look after you! Treat yourself to good food, retail therapy, or whatever makes you happy"
+    },
+
+    {
+        "name": "love",
+        "time": 5,
+        "desc": "Write yourself a love letter"
+    }
+]

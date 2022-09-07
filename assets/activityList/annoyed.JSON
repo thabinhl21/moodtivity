@@ -1,0 +1,62 @@
+[
+    {
+        "name": "self_care",
+        "time": 60,
+        "desc": "Look after you! Treat yourself to good food, retail therapy, or whatever makes you happy"
+    },
+
+    {
+        "name": "socialize",
+        "time": 60,
+        "desc": "Even if you're annoyed, good friends don't let that last long. Go have some fun"
+    },
+
+    
+    {
+        "name": "movie",
+        "time": 120,
+        "desc": "It's amazing how a good movie can distract the mind and relax the body"
+    },
+
+    {
+        "name": "meditate",
+        "time": 30,
+        "desc": "Meditate for 30 minutes to clear your mind"
+    },
+
+    {
+        "name": "exercise",
+        "time": 60,
+        "desc": "Blow off some steam! Exercise is one of the healthiest ways to do that"
+    },
+
+    {
+        "name": "comedy",
+        "time": 20,
+        "desc": "Binging comedy on any streaming platform is a great move. It's hard to be annoyed while you're laughing"
+    },
+
+    {
+        "name": "draw",
+        "time": 30,
+        "desc": "Draw or paint a picture"
+    },
+
+    {
+        "name": "change",
+        "time": 5,
+        "desc": "Go get a change of scenery for 5 minutes"
+    },
+
+    {
+        "name": "write",
+        "time": 15,
+        "desc": "Write down all the things that are upsetting you on a piece of paper, then rip it up"
+    },
+
+    {
+        "name": "game",
+        "time": 45,
+        "desc": "Go play any kind of game with your friends"
+    }
+]
